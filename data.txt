@@ -1,0 +1,5 @@
+Legs, Bench press, One arm, Rowing
+11.2, 23, 15, 9120.0, 13, comment1
+14.2, 24, 25, 10.0, 14, comment2
+11.4, 24, 16, 110.0, 15, comment3
+17.2, 63, 25, 3120.0, 16, comment4
